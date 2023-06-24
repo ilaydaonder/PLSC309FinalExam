@@ -5,13 +5,13 @@
 library(stargazer)
 
 ## Question 3 ##
-logitdataset<-read.csv("https://raw.githubusercontent.com/Brandon-Bolte/PLSC309_F22/main/FL2003.csv")
+logitdataset<-read.csv("https://raw.githubusercontent.com/ilaydaonder/PLSC309FinalExam/main/FL2003.csv?token=GHSAT0AAAAAACEJT6GU2PJVF2AASLBRRPCEZEXBLUQ")
 
 
 
 
 ## Question 4 ##
-electionsdataset<-read.csv("https://raw.githubusercontent.com/Brandon-Bolte/PLSC309_F22/main/elections.csv")
+electionsdataset<-read.csv("https://raw.githubusercontent.com/ilaydaonder/PLSC309FinalExam/main/elections.csv?token=GHSAT0AAAAAACEJT6GVNLSAIYQVYTA4KPEQZEXBQBQ")
 
 
 
